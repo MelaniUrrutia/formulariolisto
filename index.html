@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css" class="re">
+    <title>FLORERIA MELANI</title>
+</head>
+
+<body>
+
+    <form class="mostrar" id="formulario">
+        <table>
+            <td>
+        <div class="relleno" >
+        <input type="email" id="txtEmail" placeholder="Ingresa tu email">
+        <br><br>
+        <input type="password" id="txtPassword" placeholder="Ingresa tu password">
+        <br><br>
+        <input type="button" value="Registrar" id="btnRegistrar">
+        <br><br>
+        <input type="button" value="Ingresar" id="btnIngresar">
+        <br><br>
+        <img src="img/logo_google.png" alt="" height="30px" id="btnGoogle">
+        <img src="img/facebook.avif" alt="" height="30px" id="btnFacebook">
+        </div>
+        </td><td>
+        <img src="https://us.123rf.com/450wm/stacyt13/stacyt131601/stacyt13160100065/51350831-vector-elegante-tienda-de-flores-logotipo-signo-de-marca-tulip%C3%A1n-en-el-fondo-poligonal.jpg?ver=6" width="650px">
+    </td>
+    </table>
+    </form>
+
+    
+    <div class="contenidoDeLaWeb ocultar" id="contenidoDeLaWeb">
+        <nav>
+          <input type="button" value="Cerrar sesión" id="btnCerrarSesion" style="margin-left: 50px; ;" >  
+          <img src="img/logo_floreria.png" alt="log" width="500px" style="margin-left: 300px;">
+        </nav>
+        
+        
+         <h3>-------------------------------------BIENVENIDOS A LA FLORERIA-----------------------------------</h3>
+         
+         <div class="resultado" id="resultado">  
+         </div>
+         <div id="comentario" class="relleno">
+         <input type="text" placeholder="Escribe el titulo" id="txttitulo">
+         <br><br>
+         <input type="text" placeholder="Escribe la descripcion" id="txtdescripcion">
+          <br><br>
+         <input type="button" value="Publicar"  id="btnpublicar">
+
+         <ul id="imprimirComentariosEnPantalla">
+
+         </ul>
+          </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-firestore.js">  </script> 
+    <script src="main.js">  </script>
+</body>
+
+</html>

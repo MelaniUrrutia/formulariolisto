@@ -1,0 +1,157 @@
+[
+    {
+        "marca":"Girasoles",
+        "precio":34,
+        "img": "https://images.hola.com/imagenes/decoracion/20210331186985/cultivar-girasoles-plantas-exterior-il/0-936-3/como-cultivar-girasoles-en-maceta-08a-a.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca":"Rosas",
+        "precio":39,
+        "img": "https://m.media-amazon.com/images/I/61uM+SGiTPL._AC_UF894,1000_QL80_.jpg",  
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca":"Margaritas",
+        "precio":25,
+        "img": "https://significadodelasflores.com/wp-content/uploads/2017/12/margaritas-significado.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca":"Violetas",
+        "precio":25,
+        "img": "https://verdecora.es/blog/wp-content/uploads/2016/01/violetas-africanas-flores.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca":"Orquideas",
+        "precio":36,
+        "img": "https://verdecora.es/blog/wp-content/uploads/2016/12/tipos-orquideas-phalaenopsis.jpg.webp",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca":"Tulipanes",
+        "precio":20,
+        "img": "https://www.sorprendelima.pe/cdn/shop/articles/tulipanes_pinterest_1024x.jpg?v=1663194363",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Clavel",
+        "precio": 20,
+        "img": "https://huerto-en-casa.com/wp-content/uploads/2022/11/clavel-cuidados.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Azucenas",
+        "precio": 20,
+        "img": "https://www.interflora.es/blog/wp-content/uploads/azucenas.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Lirio Amarillo",
+        "precio":36 ,
+        "img": "https://cdn0.ecologiaverde.com/es/posts/1/7/8/cultivo_y_cuidados_del_lirio_amarillo_871_orig.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Ciclamen",
+        "precio": 38,
+        "img": "https://t2.uc.ltmcdn.com/es/posts/1/4/7/como_cuidar_un_ciclamen_34741_orig.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Primula",
+        "precio": 30,
+        "img": "https://www.floresyplantas.net/wp-content/uploads/flores-de-primula-acaulis-2.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Jazmin",
+        "precio": 30,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjJXxd7rT1pP6DxkNjS6LQ90aUK76J7f9U4Y9s8QVoMNuS9JH6JzrH9q-hQnH1nDPJIAg&usqp=CAU",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Petunia",
+        "precio": 33,
+        "img": "https://images.hola.com/imagenes/decoracion/20210709192239/como-cultivar-petunias-plantas-exterior-il/0-969-512/como-cultivar-petunias-05a-a.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Camalote",
+        "precio": 36,
+        "img": "https://t2.uc.ltmcdn.com/es/posts/2/3/5/como_cuidar_un_jacinto_de_agua_en_casa_48532_600_square.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Gazania",
+        "precio": 30,
+        "img": "https://cdn0.ecologiaverde.com/es/posts/9/8/4/cuidados_de_la_gazania_2489_orig.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Clematis",
+        "precio": 36,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREEu93Y3-4nQnIBGXcp7NAhjfSVLCvVeWGvH7Lvum3EM3eqEYK7Tcfhr28wL3_uIIzJso&usqp=CAU",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Abelia",
+        "precio": 33,
+        "img": "https://cdn0.ecologiaverde.com/es/posts/4/2/3/abelia_grandiflora_cuidados_3324_orig.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Rosas Negras",
+        "precio": 30,
+        "img": "https://vicmun.ams3.cdn.digitaloceanspaces.com/media/cache/72/d7/72d7bf804dfa1570b8f983516cc5b3cf.webp",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Ixora ",
+        "precio": 36,
+        "img": "https://media.istockphoto.com/id/184844131/es/foto/shrub-tropical.jpg?s=612x612&w=0&k=20&c=WBu1CQeU_pGLc0dLTa7WSkpSYc-9oFd-awIZgRhExpo=",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Azalea  ",
+        "precio": 32,
+        "img": "https://tiendahusqvarna.com/files/2018/06/azalea-cuidados.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Rosas Blancas ",
+        "precio": 25,
+        "img": "https://okdiario.com/img/2017/07/31/como-cuidar-rosas-blancas-3.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    },
+    {
+        "marca": "Flor Cerezo ",
+        "precio": 20,
+        "img": "https://st1.uvnimg.com/dims4/default/a40fdbf/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Ff%2Fflor_de_sakura.jpg",
+        "sistema": "Floreria",
+        "webpage": ""
+    }
+   
+]
